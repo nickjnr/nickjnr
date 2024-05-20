@@ -1,14 +1,16 @@
-# 👋 Hi there, I’m Nick Jnr!
+# 👋 Hi there, I’m NickDevops!
 
 ## 👀 Interests
 - Exploring the fascinating world of **Cloud Engineering** **Software Development and **Machine Learning**
 - Diving deep into **Open Source Projects**
 - Innovating with **Web Development** technologies
-- Pushing boundaries with **Data Science**
+- Pushing boundaries with **Back-end Development(spring framework)**
 
 ## 🌱 Currently Learning
 - Advanced **Neural Networks** and **Deep Learning** techniques
-- Mastering **JavaScript** and its frameworks like **React** and **Node.js**
+- Mastering **Cloud computing(Microsoft AzureDevops)**                                        
+  
+  
 - Enhancing my skills in **Python** for data analysis and automation
 
 ## 💞️ Collaboration
@@ -17,8 +19,8 @@
 - Open to brainstorming and building **innovative web applications**
 
 ## 📫 Let's Connect!
-- **Email:** nickjnr@example.com
-- **LinkedIn:** [linkedin.com/in/nickjnr](https://www.linkedin.com/in/nickjnr)
+- **Email:** nickdeveloper66@gmail.com
+- **LinkedIn:** [linkedin.com/in/nickjnr](inkedin.com/in/nicholas-kanini-ab2802265/)
 - **Twitter:** [@nickjnr](https://twitter.com/nickjnr)
 
 ## 😄 Pronouns
