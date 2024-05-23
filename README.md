@@ -15,6 +15,7 @@ Welcome to my GitHub profile! I'm passionate about orchestration and automation 
 
 ## 💞️ Collaboration
 I'm always looking to collaborate on innovative and impactful projects. Here are some areas I’m particularly interested in:
+--Currently working on MSME AUTOMATION SYSTEM -- (Banking system)
 - **Cloud Native Projects**: From container orchestration to serverless applications, I enjoy the full lifecycle of cloud-native projects.
 - **DevOps Automation**: Building and optimizing CI/CD pipelines, infrastructure automation, and configuration management.
 - **Microservices Development**: Developing and deploying microservices with a focus on scalability, reliability, and performance.
@@ -31,7 +32,7 @@ Feel free to reach out if you'd like to discuss potential collaborations, share 
 
 ## ⚡ Fun Fact
 - I once automated my entire home network using a combination of Raspberry Pi, Docker, and Ansible! It's a fully automated smart home experience.
-- Outside of coding, I’m an avid hiker and love exploring nature trails. I also enjoy playing the guitar and jamming with friends.
+- Outside of coding, I’m an avid hiker and love exploring nature trails. I also enjoy watching tech related documentaries and jamming with friends.
 
 ---
 
