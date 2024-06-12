@@ -12,11 +12,6 @@ Welcome to my GitHub profile! I'm passionate about orchestration and automation 
 - DevOps automation
 - Microservices development
 
-### Contact:
-- **Email**: [nickjnr@example.com](mailto:nickjnr@example.com)
-- **LinkedIn**: [linkedin.com/in/nickjnr](https://www.linkedin.com/in/nickjnr)
-- **Twitter**: [@nickjnr](https://twitter.com/nickjnr)
-- **GitHub**: [github.com/nickjnr](https://github.com/nickjnr)
 
 ### Fun Fact:
 - I automated my home network with Raspberry Pi, Docker, and Ansible, and he enjoys hiking, tech documentaries, and jamming with friends.
