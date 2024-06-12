@@ -2,38 +2,34 @@
 
 Welcome to my GitHub profile! I'm passionate about orchestration and automation in the cloud tech world. Here's a bit more about me:
 
-## 👀 Interests
-- **Cloud Orchestration**: Leveraging tools like Kubernetes and Docker Swarm to manage and scale containerized applications efficiently.
-- **DevOps**: Implementing CI/CD pipelines with Jenkins, GitLab CI, and GitHub Actions to streamline software development and deployment processes.
-- **Infrastructure as Code (IaC)**: Utilizing Terraform and Ansible to automate infrastructure provisioning and management.
-- **Microservices Architecture**: Designing and deploying scalable, resilient, and maintainable microservices-based systems.
+### Currently Learning:
+- Advanced Kubernetes features like Helm and Istio.
+- Serverless architectures (AWS Lambda, Azure Functions, Google Cloud Functions).
+- Observability and monitoring with Prometheus, Grafana, and ELK stack.
 
-## 🌱 Currently Learning
-- **Kubernetes Advanced Features**: Diving deeper into Kubernetes' ecosystem, including Helm for package management and Istio for service mesh.
-- **Serverless Architectures**: Exploring AWS Lambda, Azure Functions, and Google Cloud Functions for building scalable serverless applications.
-- **Observability and Monitoring**: Enhancing my skills with Prometheus, Grafana, and ELK stack to ensure the health and performance of applications.
+### Collaboration Interests:
+- Cloud-native projects
+- DevOps automation
+- Microservices development
 
-## 💞️ Collaboration
-I'm always looking to collaborate on innovative and impactful projects. Here are some areas I’m particularly interested in:
---Currently working on MSME AUTOMATION SYSTEM -- (Banking system)
-- **Cloud Native Projects**: From container orchestration to serverless applications, I enjoy the full lifecycle of cloud-native projects.
-- **DevOps Automation**: Building and optimizing CI/CD pipelines, infrastructure automation, and configuration management.
-- **Microservices Development**: Developing and deploying microservices with a focus on scalability, reliability, and performance.
-
-## 📫 Let's Connect!
-Feel free to reach out if you'd like to discuss potential collaborations, share ideas, or just say hi!
+### Contact:
 - **Email**: [nickjnr@example.com](mailto:nickjnr@example.com)
 - **LinkedIn**: [linkedin.com/in/nickjnr](https://www.linkedin.com/in/nickjnr)
 - **Twitter**: [@nickjnr](https://twitter.com/nickjnr)
 - **GitHub**: [github.com/nickjnr](https://github.com/nickjnr)
 
-## 😄 Pronouns
-- He/Him
+### Fun Fact:
+- I automated my home network with Raspberry Pi, Docker, and Ansible, and he enjoys hiking, tech documentaries, and jamming with friends.
 
-## ⚡ Fun Fact
-- I once automated my entire home network using a combination of Raspberry Pi, Docker, and Ansible! It's a fully automated smart home experience.
-- Outside of coding, I’m an avid hiker and love exploring nature trails. I also enjoy watching tech related documentaries and jamming with friends.
+**Skills/interests!**
+- **Cloud Native Projects**: From container orchestration to serverless applications, I enjoy the full lifecycle of cloud-native projects.
+- **DevOps Automation**: Building and optimizing CI/CD pipelines, infrastructure automation, and configuration management.
+- **Microservices Development**: Developing and deploying microservices with a focus on scalability, reliability, and performance using java (spring).
 
----
+## 📫 Let's Connect!
+Feel free to reach out if you'd like to discuss potential collaborations, share ideas, or just say hi!
+- **Email**:nickdeveloper66@gmail.com
+- **LinkedIn**:https://www.linkedin.com/in/nicholas-kanini-ab2802265/
+- **GitHub**: https://github.com/nickjnr
 
-✨ This repository is a special place where my passion for orchestration and automation meets the world. Feel free to explore my projects, contribute, or reach out if you share similar interests. Let's innovate and create something amazing together!
+✨ This repository is a special place where my passion for cloud computing meets the world. 
