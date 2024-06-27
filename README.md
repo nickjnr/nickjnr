@@ -1,5 +1,5 @@
 # 💫 About Me:
-##Back-end Developer (Java) and Cloud Engineer<br>**currently working on msme automation system<br>**Lavering  mmy expertise in  cloud computing (Microsoft azure)<br>**Diving deep into Linux OS (Ubuntu,  Arch Linux, Linux Mint)
+##Back-end Developer (Java) and Cloud Engineer<br>**currently working on msme automation system<br>**Laveraging  my expertise in  cloud computing (Microsoft azure)<br>**Diving deep into Linux OS (Ubuntu,  Arch Linux, Linux Mint)
 
 
 ## 🌐 Socials:
