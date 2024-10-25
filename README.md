@@ -1,6 +1,5 @@
 
 #SOFTWARE DEVELOPER (Web Channels Support):
-I am a software developer by profession with diverse skillset in web channels support. <br>
 
 
 ## 🌐 Socials:
