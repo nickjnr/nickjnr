@@ -1,10 +1,10 @@
 # Hi there 👋, I'm Nicholas Muinde
 
-### Software Engineer | Enterprise Channels Support Engineer | Cloud & Backend Developer
+### Software Engineer | Enterprise Channels Support Specialist | Developer
 
 I build secure, scalable and enterprise-grade software with a strong focus on **Banking**, **FinTech**, **Cloud Computing**, and **Enterprise Applications**.
 
-Currently working as a **Web Channels Support Engineer** supporting mission-critical digital banking platforms, APIs, payment integrations and enterprise applications.
+Currently working as a **Web Channels Support Engineer** supporting mission-critical digital banking platforms, APIs, payment integrations and enterprise applications in Tier 1 Bank.
 
 ---
 
