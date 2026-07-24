@@ -14,7 +14,6 @@ Currently working as a **Web Channels Support Engineer** supporting mission-crit
 - ☁️ Passionate about Cloud Engineering & DevOps
 - 💳 Experienced in Digital Banking & Payment Systems
 - 🌱 Currently learning Kubernetes, Azure, Terraform and Microservices
-- 🔐 Interested in Application Security & API Integrations
 - 📍 Nairobi, Kenya
 
 ---
@@ -27,7 +26,7 @@ Currently working as a **Web Channels Support Engineer** supporting mission-crit
 - Backend Development
 - Cloud Computing
 - DevOps
-- Database Design
+- Oracle Database Admin
 - Incident Management
 - Performance Optimization
 
@@ -87,8 +86,9 @@ Currently working as a **Web Channels Support Engineer** supporting mission-crit
 - Enterprise Web Channels Support
 - Payment Gateway Integrations
 - Digital Banking APIs
+- Data migration
 
-### eHasibu
+### NexaPay
 
 Accounting & Financial Management System built using:
 
