@@ -1,4 +1,4 @@
-# Hi there 👋, I'm Nicholas Muinde
+# Nicholas Muinde
 
 ### Software Engineer | Enterprise Channels Support Specialist | Developer
 
