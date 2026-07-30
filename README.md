@@ -80,18 +80,16 @@ Currently working as a **Web Channels Support Engineer** supporting mission-crit
 
 # GitHub Analytics
 
+## 📊 GitHub Analytics
+
 <p align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=nickjnr&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true"/>
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=nickjnr&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true"/>
-
-<img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=nickjnr&theme=github-dark"/>
-
+  <img height="180em" src="https://streak-stats.demolab.com?user=nickjnr&theme=github-dark"/>
 </p>
 
 <p align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nickjnr&layout=compact&theme=github_dark"/>
-
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nickjnr&layout=compact&theme=github_dark"/>
 </p>
 
 ## 📈 Contribution Graph
