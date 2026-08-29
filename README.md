@@ -4,17 +4,7 @@
 
 I build secure, scalable and enterprise-grade software with a strong focus on **Banking**, **FinTech**, **Cloud Computing**, and **Enterprise Applications**.
 
-Currently working as a **Web Channels Support Engineer** supporting mission-critical digital banking platforms, APIs, payment integrations and enterprise applications in Tier 1 Bank.
-
----
-
-## 🚀 About Me
-
-- 💼 Web Channels Support Engineer (Banking)
-- ☁️ Passionate about Cloud Engineering & DevOps
-- 💳 Experienced in Digital Banking & Payment Systems
-- 🌱 Currently learning Kubernetes, Azure, Terraform and Microservices
-- 📍 Nairobi, Kenya
+Currently working as a **Software Rngineer** supporting mission-critical digital banking platforms, APIs, payment integrations and enterprise applications in Tier 1 Banking ecosystem.
 
 ---
 
