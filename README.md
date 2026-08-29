@@ -67,17 +67,6 @@ Currently working as a **Software Rngineer** supporting mission-critical digital
 ![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb)
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb)
 
-
-## 📊 GitHub Analytics
-
-
-## 📈 Contribution Graph
-
-[![Nicholas's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=nickjnr&theme=github-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
-
-
-
 ## 🌍 Connect with Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/nicholas-muinde-ab2802265)
