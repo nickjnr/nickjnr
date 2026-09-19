@@ -4,7 +4,7 @@
 
 I build secure, scalable and enterprise-grade software with a strong focus on **Banking**, **FinTech**, **Cloud Computing**, and **Enterprise Applications**.
 
-Currently working as a **Software Rngineer** supporting mission-critical digital banking platforms, APIs, payment integrations and enterprise applications in Tier 1 Banking ecosystem.
+Currently working as a **Software Engineer** supporting mission-critical digital banking platforms, APIs, payment integrations and enterprise applications in Tier 1 Banking ecosystem.
 
 ---
 
