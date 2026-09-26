@@ -1,6 +1,6 @@
 # Nicholas Muinde
 
-### Software Engineer | Enterprise Channels Support Specialist | Developer
+### Software Engineer | Enterprise Channels Specialist | Developer
 
 I build secure, scalable and enterprise-grade software with a strong focus on **Banking**, **FinTech**, **Cloud Computing**, and **Enterprise Applications**.
 
